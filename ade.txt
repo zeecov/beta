@@ -1,4 +1,9 @@
 Here we go again
 Lets see what short does
 Testing git merge with anew branch by making changes on the master
+<<<<<<< HEAD
 Attempting a merge conflict with remote and local
+=======
+Editing beta inside of the new repo
+Here we go again
+>>>>>>> 34870b6377a6559b0089e7c01216fc612c152aca
